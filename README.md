@@ -14,7 +14,7 @@ Here are some ideas to ge
 - 😄 My Pronouns are He/Him
 - ⚡ Fun fact: ...
 -->
-Hey, I'm Tejas! My pronouns are He/Him. I live in India. I'm currently learning how to program on Python. I'm learning code for fun and for creating apps on Android and iOS. My dream is to become a successful app developer one day. You can reach me via droping a mail on `originaltkt.business@gmail.com` Stay safe and have a nice day!
+Hey, I'm Tejas! My pronouns are He/Him.I'll post ~~good~~ great things here! I live in India. I'm currently learning how to program on Python. I'm learning code for fun and for creating apps on Android and iOS. My dream is to become a successful app developer one day. You can reach me via droping a mail on `originaltkt.business@gmail.com` Stay safe and have a nice day!
 
 ### Languages I use for coding:
 
