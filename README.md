@@ -1,4 +1,53 @@
-### Hi there 👋🏻
+<div align='center'>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=TejasDev%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There!</h1>
+  <p></p>
+  
+  <p>Welcome to my page! </br> Hi, I'm Tejas, a student who enjoys coding!</p>
+  <br>
+  
+  ---
+  ### Programming Languages I use
+  <div align='center'>
+  <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
+    <img src="https://img.shields.io/badge/Python-0096EE?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/discord.py-65EE00?style=flat-square&logo=Discord&logoColor=white"/>  
+    
+  ---
+   ### Connect with me!
+   <div align='center'>
+   <span><img src="https://discord.c99.nl/widget/theme-4/787253679152562187.png"/><span>
+     <img src="https://img.shields.io/twitter/follow/TheOriginalTKT?style=social">
+     
+  ---
+   <details>
+  <summary>:zap: GitHub Stats</summary>
+  <br>
+  <img align="left" alt="TejasDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tejaskathuriatech&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
+     
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **TheOriginalTKT/TheOriginalTKT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +63,3 @@ Here are some ideas to ge
 - 😄 My Pronouns are He/Him
 - ⚡ Fun fact: ...
 -->
-Hey, I'm Tejas! My pronouns are He/Him.I'll post ~~good~~ great things here! I live in India. I'm currently learning how to program on Python. I'm learning code for fun and for creating apps on Android and iOS. My dream is to become a successful app developer one day. You can reach me via droping a mail on `originaltkt.business@gmail.com` Stay safe and have a nice day!
-
-### Languages I use for coding:
-
-1. Python
-2. Javascript
-3. Swift
-
-### Tools I use for coding:
-
-1. Visual Stutio Code
-2. Pycharm
-3. Replit 
