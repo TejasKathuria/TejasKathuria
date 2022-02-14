@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=TejasDev%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Tejas%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There!</h1>
   <p></p>
   
