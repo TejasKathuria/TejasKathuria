@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+    
   ---
    ### Connect with me!
    <div align='center'>
@@ -25,7 +26,7 @@
    <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="TejasDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tejaskathuriatech&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="TejasDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TejasKathuria&theme=blue-green" />
 
 </details>
      
