@@ -11,8 +11,8 @@
   <div align='center'>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><span>
     <img src="https://img.shields.io/badge/Python-0096EE?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/discord.py-65EE00?style=flat-square&logo=Discord&logoColor=white"/>  
-    
+    <img src="https://img.shields.io/badge/discord.py-65EE00?style=flat-square&logo=Discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   ---
    ### Connect with me!
    <div align='center'>
