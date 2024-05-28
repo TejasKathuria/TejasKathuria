@@ -26,7 +26,7 @@
    <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="TejasDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TejasKathuria&theme=blue-green" />
+  <img align="left" alt="Tejas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TejasKathuria&theme=blue-green" />
 
 </details>
 
@@ -34,8 +34,20 @@
    <details>
   <summary>:zap: My Gear</summary>
   <br>
-  <img align="left" alt="TejasDev's GitHub Stats" src="https://img.shields.io/badge/Windows-HP_Pavillion_15s-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="left" alt="Tejas' Gear" src="https://img.shields.io/badge/Windows-HP_Pavillion_15s-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="left" alt="Tejas' Gear" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 
+</details>
+
+---
+   <details>
+  <summary>:zap: Operating Systems I use</summary>
+  <br>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </details>
    
 
