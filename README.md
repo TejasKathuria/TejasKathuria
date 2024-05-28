@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/discord.py-65EE00?style=flat-square&logo=Discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   ---
+    
    ### Connect with me!
    <div align='center'>
    <span><img src="https://discord.c99.nl/widget/theme-4/787253679152562187.png"/><span>
