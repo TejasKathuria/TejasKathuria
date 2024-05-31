@@ -19,7 +19,7 @@
   ---
    ### Connect with me!
    <div align='center'>
-   <span><img src="https://discord.c99.nl/widget/theme-4/787253679152562187.png"/><span>
+   <span><img src="https://discord.c99.nl/widget/theme-1/787253679152562187.png"/><span>
      <img src="https://img.shields.io/twitter/follow/Tejaskathuria_?style=social">
      
   ---
