@@ -23,7 +23,7 @@
      <img src="https://img.shields.io/twitter/follow/Tejaskathuria_?style=social">
      
   ---
-   <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
   <br>
   <img align="left" alt="Tejas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TejasKathuria&theme=blue-green" />
@@ -31,7 +31,7 @@
 </details>
 
  ---
-   <details>
+<details>
   <summary>:zap: My Gear</summary>
   <br>
   <img align="left" alt="Tejas' Gear" src="https://img.shields.io/badge/Windows-HP_Pavillion_15s-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
