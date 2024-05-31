@@ -26,7 +26,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="Tejas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TejasKathuria&theme=blue-green" />
+  <img align="centre" alt="Tejas' GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TejasKathuria&theme=blue-green" />
 
 </details>
 
