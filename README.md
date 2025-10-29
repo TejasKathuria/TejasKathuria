@@ -35,6 +35,7 @@
   <summary>:zap: My Gear</summary>
   <br>
   <img align="left" alt="Tejas' Gear" src="https://img.shields.io/badge/macOS-MacBook_Air_M4-808080?style=for-the-badge&logo=macOS&logoColor=white" />
+  <img align="left" alt="Tejas' Gear" src="https://img.shields.io/badge/Windows-HP_Pavillion_15s-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 </details>
 
